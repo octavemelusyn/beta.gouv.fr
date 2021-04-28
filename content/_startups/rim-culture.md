@@ -4,8 +4,8 @@ mission: La sensibilité des dossiers traités en RIM nécessite une organisatio
 owner : Ministère de la Culture
 incubator: culture
 phases:
-  - name: investigation
-    start: 2020-04-01
+  - name: construction
+    start: 2021-04-15
 link:
 repository:
 stats: false
